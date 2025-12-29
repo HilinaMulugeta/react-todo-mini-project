@@ -27,3 +27,4 @@ This project demonstrates core React concepts such as state management, componen
 ```bash
 npm install
 npm run dev
+ 
